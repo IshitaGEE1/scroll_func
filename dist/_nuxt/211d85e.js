@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{924:function(t,e,n){"use strict";n.r(e);var o={name:"ContentModuleFooter"},c=n(72),component=Object(c.a)(o,(function(){return(0,this._self._c)("div",{staticClass:"u-content-module__footer"})}),[],!1,null,"23c0e804",null);e.default=component.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{925:function(e,n,t){"use strict";t.r(n);var o={name:"ContentModuleHeader"},c=t(72),component=Object(c.a)(o,(function(){return(0,this._self._c)("div",{staticClass:"u-content-module__header"})}),[],!1,null,"1282f558",null);n.default=component.exports}}]);
